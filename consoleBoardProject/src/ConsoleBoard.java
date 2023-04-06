@@ -9,7 +9,6 @@ public class ConsoleBoard {
 		System.out.println("======================================");
 		System.out.println("번호                제목              작성자              작성일");
 		System.out.println("--------------------------------------");
-		// 깃 테스트
 		while (true) {
 			try {
 				System.out.print("1.목록          2.등록          3.내용          4.삭제          0.종료 >>");
